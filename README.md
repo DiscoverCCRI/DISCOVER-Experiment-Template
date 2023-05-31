@@ -23,7 +23,7 @@ Detail instructions and commands for installation.
 Provide instructions on how to run your application.
 
 # Results
-Provide a cloud storage link for the DISCOVER Operator to upload your experiment results. This should also be included in the experiment details on the DISCOVER portal.
+Provide a cloud storage link for the DISCOVER Operator to upload your experiment results. This should also be included in the experiment details on the DISCOVER portal. Google Drive works well for this, just be sure to share it with anyone who has access to the link of your shared folder.
 
 To see this template applied to an actual experiment, check out the branches associated with this repository:
  - (Link to branch 1)
