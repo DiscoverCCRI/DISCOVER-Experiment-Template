@@ -1,2 +1,30 @@
-# DISCOVER-Experiment-Template
-A template repo for DISCOVER experiments that users may fork or reference when creating experiments.
+# DISCOVER Experiment Template
+A template repo for DISCOVER experiments that users may fork or reference when creating experiments. Each experiment should follow this template for the highest chance of success when submitting to the DISCOVER infrastructure.
+
+Each experiment should:
+
+1. Be formatted as a GitHub repository based on this template.
+2. Be a Docker-based app.
+3. Contain a detailed config file detailing the resources you wish to interface with.
+
+If you are new to GitHub, we have compiled some helpful steps to get you started: (link here)
+
+---
+
+All code files should be stored in the experiment_files folder. Please use the following outline as a guide for setting up your experiment repo README.
+
+# Experiment Name
+Provide a description for what your experiment is trying to do.
+
+# Installation
+Detail instructions and commands for installation.
+
+# Run
+Provide instructions on how to run your application.
+
+# Results
+Provide a cloud storage link for the DISCOVER Operator to upload your experiment results. This should also be included in the experiment details on the DISCOVER portal.
+
+To see this template applied to an actual experiment, check out the branches associated with this repository:
+ - (Link to branch 1)
+ - (Link to branch 2)
