@@ -1,5 +1,5 @@
 # RoverDemo
-An example experiment using two LeoRovers.
+An example experiment for our NSF demo
 
 # Installation
 Please run the following commands:
