@@ -11,7 +11,7 @@ If you are new to GitHub, we have compiled some helpful steps to get you started
 
 ---
 
-All code files should be stored in the experiment_files folder. Please use the following outline as a guide for setting up your experiment repo README.
+All code files should be stored in the `src/` folder and the primary execution file should be located in `src/main.py`. Please use the following outline as a guide for setting up your experiment repo README.
 
 # Experiment Name
 Provide a description for what your experiment is trying to do.
