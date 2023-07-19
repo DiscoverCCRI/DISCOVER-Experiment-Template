@@ -5,7 +5,7 @@ Each experiment should:
 
 1. Be formatted as a GitHub repository based on this template.
 2. Be a Docker-based app.
-3. Contain a detailed config file detailing the resources you wish to interface with.
+3. Have a designated location for receiving experiment results, such as a shared Google Drive folder.
 
 If you are new to GitHub, we have compiled some helpful steps to get you started: (link here)
 
@@ -17,7 +17,7 @@ All code files should be stored in the experiment_files folder. Please use the f
 Provide a description for what your experiment is trying to do.
 
 # Installation
-Detail instructions and commands for installation.
+Detail instructions and build commands for installation.
 
 # Run
 Provide instructions on how to run your application.
