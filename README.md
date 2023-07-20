@@ -4,8 +4,9 @@ A template repo for DISCOVER experiments that users may fork or reference when c
 Each experiment should:
 
 1. Be formatted as a GitHub repository based on this template.
-2. Be a Docker-based app.
-3. Have a designated location for receiving experiment results, such as a shared Google Drive folder.
+2. Have a designated location for receiving experiment results, such as a shared Google Drive folder.
+
+Once you submit an experiment, it will be transformed into a simple Docker application to help with experiment management and maintenance on the DISCOVER infrastructure. For this to work well, it's prudent to have detailed build and run instructions in your README.
 
 If you are new to GitHub, we have compiled some helpful steps to get you started: (link here)
 
