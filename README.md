@@ -8,7 +8,7 @@ Each experiment should:
 
 Once you submit an experiment, it will be transformed into a simple Docker application to help with experiment management and maintenance on the DISCOVER infrastructure. For this to work well, it's prudent to have detailed build and run instructions in your README.
 
-If you are new to GitHub, we have compiled some helpful steps to get you started: (link here)
+If you are new to GitHub, we have compiled some helpful steps to get you started: [Usage Guide for DISCOVER Template Repo](USAGE.md)
 
 ---
 
